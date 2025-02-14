@@ -16,7 +16,7 @@ To run the games on your local machine:
 1. Clone the repository:
    ```sh
    git clone https://github.com/Shrouk-Sharaf/TicTacToe-Games.git
-   cd your-repo
+   cd TicTacToe-Games
    ```
 2. Compile the C++ files:
    ```sh
